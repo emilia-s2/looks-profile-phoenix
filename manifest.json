@@ -1,0 +1,49 @@
+{
+    "files": {
+        "index.js": "b1bbcd181e84ab3a7908aab965369517f5506623423b07aa908b2dd06fb50bcb",
+        "lib/appearance-compatibility.js": "42fb9be828cf262ae23e0a56d566405d5fda68f5a8ff996dc3eb036a1ffea51f",
+        "lib/catalog.js": "550ded6a95044e7477652e15f55e8a84264829eb69ab6fcbbd05c94bbf2f7b58",
+        "lib/gui-shortcut.js": "4521913cee4887239cc29dbfd027758eed67527bfc476f4f040138749e092c86",
+        "lib/i18n.js": "3d02d73757cfe5cdae4bb2d6800e0b3d4d3e5c72a994a830b31635886c3f94f5",
+        "lib/inspect-customizer-data.js": "62715f8beab5dba04f678769aa72d57ff6f9cfaa07c579d16f66fbd55148c1d9",
+        "lib/panel.js": "ef94dae4f8558ff0499e58e5df9df3c47510e34efff7f6a5f727869d63df09c3",
+        "lib/phoenix-package.js": "e5950940702b9c67b14232e2755816fc404ce186f96fcec6140e4c9e6d070119",
+        "lib/portrait-package.js": "c0280007c61e83e27ea8f42d116f01a595fe9e242b29a2db8c421faf97e446d9",
+        "lib/portraits.js": "69f792009f96a161afd025c611bf774bc10b25745c6aaa6cfa09389314b1f497",
+        "lib/preferences.js": "a78b84f961e274da96b131607f8eabaa77d408fd37a30e24373f0663b5929e22",
+        "lib/preview-cache.js": "9641a99e4f8f02a0140a1b1bbc4a8495e3c4138754dfd9613b7afa4163b31c7c",
+        "lib/profile-store.js": "663268214cd6fa8236969940fee12dba926ba3cf22e60ba08d7b190f0184cc60",
+        "lib/profile.js": "8d83f81a4907d1814e3e9c1ae1ecd6147efb62318bd4fd987a80cad76ff9f6c2",
+        "lib/ui-baseline-test.js": "0b821eda2ce67148a6a61fcf47b0e6d0f4ef4b4d08f6a8234ef35a7c33e5a6d6",
+        "module.json": "c8d8a0bbf094f63e77f884cc0b305ee362df5d6fbad87c336bebcfbf6b4e0782",
+        "README.md": "6aec31bfdf1e7bb77080acd80074822ddf2afc010422568cdb549dcd3113ccce",
+        "resources/asura-appearance-source.json.gz": "4f8c47bb2d8069b5526921089fb7cfb088dfd7925d3481b5c8c9feea74bf8429",
+        "resources/creator-profile.gpk.gz": "da750f825a3e33284d0ee0db0dccbf39670399c6a46da39c9d3cda1ed090fafc",
+        "resources/phoenix-id-actions.bin": "5d283abfd9b0bdd4ae4c6aa8b3d7baa5ef07631bbd84957d7c37efc28cd2dcfe",
+        "resources/portrait-actions.bin": "bf96e6f6330bc4a8970c46f5066a345de54e4e805b36413b2dabe129371d341f",
+        "settings_migrator.js": "699086f7b5589a6b671f91e2b728e206e4bf41790f811915ae84997bf5028d14",
+        "ui/crop.js": "4fdcb0b700cde4b0aff7904b151e5f613642dee8ec6b425e8bfa3a2b57855e18",
+        "ui/i18n.js": "8b2b32ed9ae1f569dd2d8feb078222fd49cba28d20878b48c13ce2c4e44077fd",
+        "ui/index.html": "60959c12de79f82b0df0695c10d5b03eb46c2eb43b34258273824cb0c75e1fa4",
+        "ui/panel.js": "7e025be588d380aa1926cd44a40fc2f4ada1948811ada89824e38bb099787013",
+        "ui/portrait-sharpness.js": "3a16482e6399063cbbcf20bb7a1ed013f83901a94667edd7b43a40b91dd94861",
+        "ui/portrait.js": "6b82fb44e253a8c2db4c83258c6fcb9227b6e63206e6ff3a8b6d303c477d569b",
+        "ui/source-picker.js": "15c4e735835687ca39e13bab326fcb5c2a3e5c2a0927a45c907f960277e90265",
+        "ui/style.css": "080224e559fd00bcb74454ec0c92c56ff02d519aa6afbd878fcd1d10e434f85d"
+    },
+    "defs": {
+        "S_DESPAWN_USER": 3,
+        "S_GET_USER_LIST": [
+            17,
+            18
+        ],
+        "S_LOGIN": [
+            14,
+            15
+        ],
+        "S_SPAWN_USER": [
+            15,
+            16
+        ]
+    }
+}

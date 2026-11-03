@@ -1,0 +1,4 @@
+# BEGIN Looks Profile Phoenix: hashes do pacote
+# Manter bytes identicos ao manifest SHA-256, mesmo com core.autocrlf=true.
+* -text
+# END Looks Profile Phoenix: hashes do pacote
