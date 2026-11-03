@@ -155,7 +155,7 @@ module.exports = function LooksProfileManager(mod) {
         let status;
         try { status = UiTest.describe(mod); } catch (error) { status = Locale.error(Locale.resolve(mod), error.message); }
         return {
-            version: '1.3.4-phoenix.5', selectionEpoch, language: Locale.resolve(mod), languagePreference: mod.settings.language,
+            version: '1.3.4', selectionEpoch, language: Locale.resolve(mod), languagePreference: mod.settings.language,
             profiles: Array.from(profiles, ([id, p]) => ({ id, name: p.profileName, source: p.sourceName || Locale.t(Locale.resolve(mod), 'Origem desconhecida'), race: raceName(p.race), gender: genderName(p.gender), details: p.details.length, portrait: Portraits.preview(__dirname, id) })),
             status: plainMessage(status), feedback: feedback.map(record => plainMessage(record.status ? UiTest.describe(mod) : Locale.t(Locale.resolve(mod), record.text, record.params))),
             selfName: selfData && selfData.name || '',
@@ -303,7 +303,7 @@ module.exports = function LooksProfileManager(mod) {
 	}
 
 	function showStatus() {
-        notify('Looks Profile {version}: {count} perfil(is) salvo(s). Nenhum perfil padrão ou aplicação automática. Escolha um preset em Customize → Presets.', {version: '1.3.4-phoenix.5', count: profiles.size});
+        notify('Looks Profile {version}: {count} perfil(is) salvo(s). Nenhum perfil padrão ou aplicação automática. Escolha um preset em Customize → Presets.', {version: '1.3.4', count: profiles.size});
         try { feedback.push({status:true}); if(feedback.length>6)feedback.shift(); mod.command.message(UiTest.describe(mod)); } catch (error) { notify('Looks Profile: status indisponível: {error}', {error: error.message}); }
     }
 

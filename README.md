@@ -1,6 +1,6 @@
 # Looks Profile Phoenix
 
-Edição exclusiva para o cliente Phoenix x64 100.2, versão 1.3.4-phoenix.5. Mantém o formato dos perfis JSON do Looks Profile e inclui o tratamento específico de aparência e catálogo do Phoenix.
+Edição exclusiva para o cliente Phoenix x64 100.2, versão 1.3.4. Mantém o formato dos perfis JSON do Looks Profile e inclui o tratamento específico de aparência e catálogo do Phoenix.
 
 Importação: copie os arquivos JSON para `profiles`. Para manter os retratos, copie também os PNG correspondentes para `icons`, sem mudar seus nomes. O formato dos perfis permanece `looks-profile`, versão 1. Nenhum perfil é convertido ou sobrescrito pela importação.
 

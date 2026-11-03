@@ -1,6 +1,6 @@
 {
     "files": {
-        "index.js": "b1bbcd181e84ab3a7908aab965369517f5506623423b07aa908b2dd06fb50bcb",
+        "index.js": "0d243ed7ac47f7c2acbc502cb22dcb415d7d258aeb1b1c4f2c4020a1ae19c3dc",
         "lib/appearance-compatibility.js": "42fb9be828cf262ae23e0a56d566405d5fda68f5a8ff996dc3eb036a1ffea51f",
         "lib/catalog.js": "550ded6a95044e7477652e15f55e8a84264829eb69ab6fcbbd05c94bbf2f7b58",
         "lib/gui-shortcut.js": "4521913cee4887239cc29dbfd027758eed67527bfc476f4f040138749e092c86",
@@ -14,9 +14,9 @@
         "lib/preview-cache.js": "9641a99e4f8f02a0140a1b1bbc4a8495e3c4138754dfd9613b7afa4163b31c7c",
         "lib/profile-store.js": "663268214cd6fa8236969940fee12dba926ba3cf22e60ba08d7b190f0184cc60",
         "lib/profile.js": "8d83f81a4907d1814e3e9c1ae1ecd6147efb62318bd4fd987a80cad76ff9f6c2",
-        "lib/ui-baseline-test.js": "0b821eda2ce67148a6a61fcf47b0e6d0f4ef4b4d08f6a8234ef35a7c33e5a6d6",
-        "module.json": "d3e2ed93532f0cb2612306dad813b6f8b2082293ee514975a2c1724d3abe7bbf",
-        "README.md": "6aec31bfdf1e7bb77080acd80074822ddf2afc010422568cdb549dcd3113ccce",
+        "lib/ui-baseline-test.js": "34dcbc55db0af47081294d3f87fca4d26faf984e19b7f96601ea3c0f4d366359",
+        "module.json": "0e8d45e3325babc33bed00505837653d5c0f56b861a26aa90c181c050cf38dd6",
+        "README.md": "2a98c0b19dd61c0f9c7100d35069d582a315c998c7bd9978c241b9af2d2de2b5",
         "resources/asura-appearance-source.json.gz": "4f8c47bb2d8069b5526921089fb7cfb088dfd7925d3481b5c8c9feea74bf8429",
         "resources/creator-profile.gpk.gz": "da750f825a3e33284d0ee0db0dccbf39670399c6a46da39c9d3cda1ed090fafc",
         "resources/phoenix-id-actions.bin": "5d283abfd9b0bdd4ae4c6aa8b3d7baa5ef07631bbd84957d7c37efc28cd2dcfe",

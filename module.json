@@ -2,10 +2,10 @@
     "name": "looks-profile-manager",
     "author": "emilia-s2",
     "description": "Perfis de aparência — edição Phoenix 100.2. Importa os mesmos perfis JSON do Looks Profile.",
-    "version": "1.3.4-phoenix.5",
+    "version": "1.3.4",
     "disableAutoUpdate": false,
     "options": {
-        "niceName": "<font color='#033dff'>Perfis de aparência — Phoenix ﾠ</font>",
+        "niceName": "Perfis de aparência — Phoenix",
         "guiName": "<font color='#033dff'>Looks Profile Phoenixﾠ</font>&nbsp;",
         "settingsVersion": 1,
         "settingsFile": "config.json",
